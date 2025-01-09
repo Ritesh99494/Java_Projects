@@ -1,0 +1,3 @@
+[submodule "Java_WeatherApp"]
+	path = Java_WeatherApp
+	url = https://github.com/Ritesh99494/Java_WeatherApp.git
